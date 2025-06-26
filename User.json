@@ -7,16 +7,22 @@
 {
 "id" : 2,
 "name" : "전 지현",
-"age" : 40
+"age" : 40,
+  "personalColor" : "hotpink",
+  "hobbies":["travel"]
 },
 {
 "id" : 3,
 "name" : "윤 승아",
-"age" : 38
+"age" : 38,
+  "personalColor" : "pink",
+  "hobbies":["game","soccer"]
 },
 {
 "id" : 4,
 "name" : "김 태희",
-"age" : 42
+"age" : 42,
+  "personalColor" : "purple",
+  "hobbies":["watchingMovie","playing the Piano"]
 }
 ]
